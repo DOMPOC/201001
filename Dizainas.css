@@ -1,0 +1,30 @@
+*{
+	margin: 0;
+	box-sizing:border-box;
+}
+.container{
+	width: 80%;
+	margin: 0 auto;
+}
+.logo{
+	width:15px; 
+	height:20px;
+
+}
+header{
+	background-color: #918f8a;
+	width: 100%;
+	height: 100px;
+
+
+}	
+header ul li{
+	display: inline-block;
+	padding-right: 75px;
+	float: right;
+	margin: 0 auto;
+}
+section{
+	text-align: center;
+	margin: 0 auto;
+}
